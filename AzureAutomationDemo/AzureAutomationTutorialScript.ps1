@@ -5,6 +5,8 @@
     .NOTES
         AUTHOR: Azure Automation Team
         LASTEDIT: Mar 14, 2016
+
+        Edited for a Demo 22/2/2017
 #>
 
 $connectionName = "AzureRunAsConnection"
